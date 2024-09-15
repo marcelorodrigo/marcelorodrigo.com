@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'Marcelo Rodrigo'
 theme = "hugo-theme-monochrome"
 description = "Apaixonado por viagens e bicicletas, brasileiro morando na Holanda"
+enableRobotsTXT = true
