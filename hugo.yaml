@@ -1,0 +1,10 @@
+baseURL: "https://marcelorodrigo.com/"
+defaultContentLanguage: "en"
+description: "Apaixonado por viagens e bicicletas, brasileiro morando na Holanda"
+enableEmoji: true
+enableRobotsTXT: true
+languageCode: "en-us"
+params:
+  author: "Marcelo Rodrigo"
+theme: "hugo-theme-monochrome"
+title: "Marcelo Rodrigo"
