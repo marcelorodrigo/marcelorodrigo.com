@@ -7,5 +7,6 @@ enableRobotsTXT: true
 languageCode: "en-us"
 params:
   author: "Marcelo Rodrigo"
+  enable404: true
 theme: "hugo-theme-monochrome"
 title: "Marcelo Rodrigo"
