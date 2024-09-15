@@ -4,3 +4,5 @@ title = 'Marcelo Rodrigo'
 theme = "hugo-theme-monochrome"
 description = "Apaixonado por viagens e bicicletas, brasileiro morando na Holanda"
 enableRobotsTXT = true
+defaultContentLanguage = "en"
+enableEmoji = true
