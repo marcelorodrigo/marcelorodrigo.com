@@ -7,7 +7,6 @@ categories:
 date: "2023-02-02T16:39:18Z"
 description: It was a rainy day in Joinville, Brazil, and our fat cyclist, Marcelo, was getting ready for his biggest adventure moving to The Netherlands.
 draft: false
-image: amsterdam-canals.jpg
 keywords:
   - Amsterdam
   - Bike
@@ -20,6 +19,7 @@ tags:
 title: The New Adventures of a Fat Cyclist
 url: /the-new-adventures-of-a-fat-cyclist.html
 ---
+# The New Adventures of a Fat Cyclist
 
 It was a rainy day in Joinville, Brazil, and our fat cyclist, Marcelo, was getting ready for his biggest adventure. After a long and eventful life in his hometown, he had decided to pack up and move to the Netherlands, a place he had only seen in pictures, but knew he wanted to explore.
 
@@ -31,7 +31,7 @@ Gathered his belongings and made his way to the airport. The check-in process wa
 
 ## Amsterdam
 
-![Asmterdam canals and historic houses with black bicycle leaning on black metal fence](/images/2023/amsterdam-canals.jpg "Asmterdam canals and historic houses with black bicycle leaning on black metal fence")
+![Asmterdam canals and historic houses with black bicycle leaning on black metal fence](/images/2023/amsterdam-canals.webp "Asmterdam canals and historic houses with black bicycle leaning on black metal fence")
 He arrived in Amsterdam and it was everything he had hoped it would be. The canals and the old buildings were stunning. He was also taken aback by the number of cyclists everywhere – it seemed like every other person was on a bike. This was definitely going to be his new mode of transportation, but also a dream for every cyclist in the world.
 
 ## Cyclist Dream
