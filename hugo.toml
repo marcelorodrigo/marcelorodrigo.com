@@ -6,3 +6,6 @@ description = "Apaixonado por viagens e bicicletas, brasileiro morando na Holand
 enableRobotsTXT = true
 defaultContentLanguage = "en"
 enableEmoji = true
+
+[params]
+author = "Marcelo Rodrigo"
