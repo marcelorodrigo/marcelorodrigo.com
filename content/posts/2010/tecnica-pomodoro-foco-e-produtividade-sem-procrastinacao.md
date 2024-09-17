@@ -53,6 +53,6 @@ Nem todos são adeptos desta técnica, e muitos dias você verá que teve o trip
 
 Enfim … é uma técnica maravilhosa que é fácil de colocar em prática e que no mesmo dia vai te mostrar que é possível ser produtivo em ciclos de 25 minutos, com a sensação de dever cumprido.
 
-No [site oficial](http://www.pomodorotechnique.com/) tem materiais disponíveis, como o [livro oficial](http://www.pomodorotechnique.com/), folha de [TODO](http://www.pomodorotechnique.com/downloads/pomodoro_todo.pdf) e o meu preferido [Cheat Sheet](http://www.pomodorotechnique.com/downloads/pomodoro_cheat_sheet.pdf).
+No [site oficial](https://www.pomodorotechnique.com/) tem materiais disponíveis, como o [livro oficial](https://www.pomodorotechnique.com/), folha de [TODO](https://www.pomodorotechnique.com/downloads/pomodoro_todo.pdf) e o meu preferido [Cheat Sheet](https://www.pomodorotechnique.com/downloads/pomodoro_cheat_sheet.pdf).
 
 *Ps: Esse post foi escrito num Pomodoro de descanso, agora me dê licença que eu preciso completar mais pomodoros :smile:*
