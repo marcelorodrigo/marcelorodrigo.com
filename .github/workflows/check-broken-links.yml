@@ -13,7 +13,7 @@ jobs:
           with:
             hugo-version: "latest"
         - name: Run Hugo
-          run: hugo -s site
+          run: hugo
         - name: Test HTML
           continue-on-error: true
           uses: wjdp/htmltest-action@master
