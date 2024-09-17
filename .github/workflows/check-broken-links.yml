@@ -9,9 +9,10 @@ jobs:
           with:
             submodules: recursive
         - name: Set up Hugo
-          uses: peaceiris/actions-hugo@v2
+          uses: peaceiris/actions-hugo@v3
           with:
             hugo-version: "latest"
+            extended: true
         - name: Run Hugo
           run: hugo
         - name: Test HTML
