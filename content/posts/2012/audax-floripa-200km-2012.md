@@ -3,11 +3,6 @@ author: Marcelo Rodrigo
 categories:
 - Audax
 date: "2012-12-12T22:01:45Z"
-dsq_thread_id:
-- "1558389015"
-guid: https://marcelorodrigo.com/?p=947
-id: 947
-image: /images/2012/12/audax-floripa-pc1.webp
 tags:
 - Florianópolis
 - São José

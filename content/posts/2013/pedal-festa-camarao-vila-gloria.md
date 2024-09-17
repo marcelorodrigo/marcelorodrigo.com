@@ -58,4 +58,4 @@ Ao desembarcar na **Praia da Vigorelli**, havia uma fila de carros enorme – se
 - Alimentação: 2 barrinhas de cereal + 1 picolé + 1 deliciosa porção de camarão
 - Gasto Calórico: 1820 kc
 
-<iframe frameborder="0" height="405" loading="lazy" scrolling="no" src="http://app.strava.com/activities/52316260/embed/2d8be3f71b7bdca41b31740eb0c79941c2891855" width="590"></iframe>
+{{< iframe "http://app.strava.com/activities/52316260/embed/2d8be3f71b7bdca41b31740eb0c79941c2891855" "590" "410" >}}
