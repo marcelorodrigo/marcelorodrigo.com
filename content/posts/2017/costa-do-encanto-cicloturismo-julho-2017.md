@@ -7,7 +7,7 @@ date: "2017-07-08T19:16:49Z"
 tags:
 - cicloturismo
 title: Costa do Encanto Cicloturismo Julho/2017
-url: /costa-do-encanto-cicloturismo-julho-2017.html
+url: /costa-do-encanto-cicloturismo-julho-2017
 
 ---
 # Costa do Encanto Cicloturismo Julho/2017
@@ -49,7 +49,7 @@ Fazendo o retorno, segui pela avenida principal até o porto de Itapoá. É baca
 
 [![Costa do Encanto - Itapoá](/images/2017/07/costa-doe-encanto-itapoa-IMG_20170706_142646411.webp)](/images/2017/07/costa-doe-encanto-itapoa-IMG_20170706_142646411.webp)
 
-Ainda em Itapoá, tinha planos de deixar alguns caches e ampliar o [Geocaching](/guia-geocaching.html) na cidade. Meu horário estava apertado para pegar a balsa no Gilbratar. Mas pude verificar possíveis lugares, bem bacanas. Ficou pra uma próxima visita deixar os caches que estavam comigo.
+Ainda em Itapoá, tinha planos de deixar alguns caches e ampliar o [Geocaching](/guia-geocaching) na cidade. Meu horário estava apertado para pegar a balsa no Gilbratar. Mas pude verificar possíveis lugares, bem bacanas. Ficou pra uma próxima visita deixar os caches que estavam comigo.
 
 ## Vila da Glória
 

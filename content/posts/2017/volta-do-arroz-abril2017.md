@@ -10,7 +10,7 @@ excerpt: 'Volta do Arroz: um pedal no feriado de tiradentes pela Rodovia do Arro
 tags:
 - volta do arroz
 title: Volta do Arroz Abril/2017
-url: /volta-do-arroz-abril2017.html
+url: /volta-do-arroz-abril2017
 ---
 # Volta do Arroz Abril/2017
 

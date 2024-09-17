@@ -4,7 +4,7 @@ categories:
 - Coisas da Vida
 date: "2015-02-24T06:01:52Z"
 title: Receita Laxante Natural Coquetel Laxativo
-url: /receita-laxante-natural-coquetel-laxativo.html
+url: /receita-laxante-natural-coquetel-laxativo
 ---
 # Receita Laxante Natural Coquetel Laxativo
 Vai chegar algum momento na sua vida que sua nutricionista vai lhe receitar algum Laxante Natural ou um Coquetel Laxativo para lhe ajudar com a prisão do ventre. E foi exatamente o que aconteceu comigo quando reclamei da minha dificuldade em evacuar após a gastroplastia.

@@ -7,12 +7,12 @@ tags:
 - Barra Velha
 - Pedágio
 title: Praia de Barra Velha Março/2013
-url: /praia-barra-velha-marco2013.html
+url: /praia-barra-velha-marco2013
 ---
 # Praia de Barra Velha Março/2013
 Mesmo com o tempo chuvoso e previsão de chuva intermitente durante o dia, arrisquei fazer este pedal até a **Praia de Barra Velha**. O previsto era sair de casa as 07hs, chegar em **Barra Velha** até 09:30h – curtir o visual das **praias** da cidade – e voltar pra casa até as 13hs, dando tempo de almoçar com a família.
 
-Confesso que fiquei com um pouco de receio de fazer este **pedal mais longo**, depois que vi o relato do [acidente do Cabelo](http://pedaldocabelo.blogspot.com.br/2013/03/sabado-paulas-sfs-02-03-12.html "Relato acidente do Cabelo") e também pela minha esposa ter comentado ontem se eu precisasse fazer algo – como ir ao **banheiro** – e não teria ninguém pra ficar de olho na **bike**.
+Confesso que fiquei com um pouco de receio de fazer este **pedal mais longo**, depois que vi o relato do [acidente do Cabelo](http://pedaldocabelo.blogspot.com.br/2013/03/sabado-paulas-sfs-02-03-12 "Relato acidente do Cabelo") e também pela minha esposa ter comentado ontem se eu precisasse fazer algo – como ir ao **banheiro** – e não teria ninguém pra ficar de olho na **bike**.
 
 Levantei 6h pra me arrumar e esqueci os *“medos”* e fui fazer o que gosto: **pedalar**. As 06:50h estava saindo de casa, em direção a Rodovia Mario Covas **BR 101**. No caminho encontrei o [André Richter](https://www.facebook.com/andre.richter.12532 "Facebook de André Richter") que há muito tempo não encontrava. Ele estava ao encontro de outros colegas que combinaram de subir a Serra Duas Mamas, segui com ele até a BR e me despedi, pois o meu trajeto era bem mais longo.
 

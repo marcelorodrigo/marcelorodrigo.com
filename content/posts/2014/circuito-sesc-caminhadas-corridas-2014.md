@@ -7,10 +7,10 @@ date: "2014-09-28T17:23:23Z"
 tags:
 - sesc
 title: Circuito SESC Caminhadas e Corridas 2014
-url: /circuito-sesc-caminhadas-corridas-2014.html
+url: /circuito-sesc-caminhadas-corridas-2014
 ---
 
-Depois da primeira participação na [Corrida da IOT ](/5a-corrida-caminhada-iot-corville.html "5ª corrida e caminhada IOT Corville")comecei a criar gosto pelas [corridas](/categorias/corrida "Veja mais relatos de corrida"). Era uma modalidade que eu nunca havia mostrado interesse, mas comecei a gostar e fiz minha inscrição na corrida do SESC. O circuito foi dividido em caminhada, 5k, revezamento 4 x 2500m e os tradicionais 10k. Eu me inscrevi no 5k e tive como objetivo baixar meu tempo anterior.
+Depois da primeira participação na [Corrida da IOT ](/5a-corrida-caminhada-iot-corville "5ª corrida e caminhada IOT Corville")comecei a criar gosto pelas [corridas](/categorias/corrida "Veja mais relatos de corrida"). Era uma modalidade que eu nunca havia mostrado interesse, mas comecei a gostar e fiz minha inscrição na corrida do SESC. O circuito foi dividido em caminhada, 5k, revezamento 4 x 2500m e os tradicionais 10k. Eu me inscrevi no 5k e tive como objetivo baixar meu tempo anterior.
 
 ![Circuito SESC Corridas 2014](/images/2014/09/circuito-sesc-corridas-2014-capa.webp)
 

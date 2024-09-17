@@ -7,7 +7,7 @@ tags:
 - java
 - properties
 title: How to sort properties in Java
-url: /java-properties-file-sorted-by-key.html
+url: /java-properties-file-sorted-by-key
 ---
 
 Sometimes you have to deal with Properties files in Java. And sometimes you have to sort the entries based on the keys stored on the file, and you realized that is not so easy using default Properties class from java.util package.

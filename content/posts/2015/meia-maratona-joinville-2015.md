@@ -5,7 +5,7 @@ categories:
 - Destaque
 date: "2015-03-15T15:09:57Z"
 title: 22ª Meia Maratona de Joinville 2015
-url: /meia-maratona-joinville-2015.html
+url: /meia-maratona-joinville-2015
 ---
 # 22ª Meia Maratona de Joinville 2015
 A data da 22ª Meia Maratona de Joinville vinha chegando, e mesmo eu não ter treinado por motivos de saúde e não ter planejado participar de provas de corrida ou Audax em 2015, eu resolvi encarar o desafio no trajeto de 6.6km

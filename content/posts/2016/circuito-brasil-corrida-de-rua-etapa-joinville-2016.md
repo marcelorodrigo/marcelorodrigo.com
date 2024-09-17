@@ -5,7 +5,7 @@ categories:
 - Destaque
 date: "2016-02-29T21:08:39Z"
 title: Circuito Brasil Corrida de Rua Etapa Joinville 2016
-url: /circuito-brasil-corrida-de-rua-etapa-joinville-2016.html
+url: /circuito-brasil-corrida-de-rua-etapa-joinville-2016
 ---
 # Circuito Brasil Corrida de Rua  Etapa Joinville 2016
 O Circuito Brasil de corrida de rua chegou novamente em Joinville e eu resolvi sair da zona de conforto nas provas de 5 km e parti para um desafio de 8 km, mas com o objetivo de fazer 10 km nos próximos meses.

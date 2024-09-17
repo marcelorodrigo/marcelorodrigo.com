@@ -4,7 +4,7 @@ categories:
 - Viagem
 date: "2016-03-27T15:09:00Z"
 title: Como levar dinheiro para San Andrés na Colômbia
-url: /como-levar-dinheiro-para-san-andres-colombia.html
+url: /como-levar-dinheiro-para-san-andres-colombia
 ---
 # Como levar dinheiro para San Andrés na Colômbia
 Dinheiro, que dinheiro eu levo pra Colômbia? Dólar, Real, Peso Colombiano? Troco aqui ou lá? Faço envio internacional? Mas tem cartão de crédito, e cartão débito? Será que consigo sacar?

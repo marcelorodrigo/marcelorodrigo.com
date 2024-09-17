@@ -8,7 +8,7 @@ tags:
 - Brusque
 - Itajaí
 title: Audax 200 Balneário Camboriu 2012
-url: /relato-audax-200-balneario-camboriu.html
+url: /relato-audax-200-balneario-camboriu
 ---
 # Audax 200 Balneário Camboriu 2012
 

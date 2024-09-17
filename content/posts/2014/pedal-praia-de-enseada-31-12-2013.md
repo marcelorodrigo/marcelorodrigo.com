@@ -7,7 +7,7 @@ date: "2014-01-01T13:59:05Z"
 tags:
 - Praia da Enseada
 title: Praia de Enseada 31/12/2013
-url: /pedal-praia-de-enseada-31-12-2013.html
+url: /pedal-praia-de-enseada-31-12-2013
 ---
 # Praia de Enseada 31/12/2013
 Dia 31 de dezembro e todos estavam nas praias prontos para mais uma virada de ano. Na **praia de enseada** em São Francisco do Sul, isto não poderia ser diferente: aquele mar de gente, falta de água, show de fogos e bandas/dj’s e muito agito. Porém precisava buscar meu filho lá na Enseada, a patroa foi com de carro com minha filha e eu fui de bike, claro!

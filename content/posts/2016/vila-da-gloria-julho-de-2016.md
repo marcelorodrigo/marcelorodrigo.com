@@ -5,7 +5,7 @@ categories:
 - Destaque
 date: "2016-07-02T15:40:40Z"
 title: Vila da Glória Julho de 2016
-url: /vila-da-gloria-julho-de-2016.html
+url: /vila-da-gloria-julho-de-2016
 ---
 # Pedal Vila da Glória - Julho de 2016
 Há algumas semanas os planos indicavam um pedal para a Vila da Glória pra testar um nova configuração da Mountain Bike. Com os componentes recém adquiridos pensando no cicloturismo, mas os compromissos pessoais acabavam sempre empatando tudo.

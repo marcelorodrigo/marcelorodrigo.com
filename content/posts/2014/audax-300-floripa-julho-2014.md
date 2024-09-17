@@ -11,7 +11,7 @@ tags:
 - Pedágio
 - São José
 title: Audax 300 Floripa &#8211; Julho 2014
-url: /audax-300-floripa-julho-2014.html
+url: /audax-300-floripa-julho-2014
 ---
 
 Nos dias 19 e 20/07 ocorreu mais um evento de ciclismo de longa distancia que participei, o [Audax Floripa 300km](http://www.audaxfloripa.com.br "Audax Floripa") que teve sua largada lá em **Florianópolis**, passando por Itajaí e retornando com a volta na ilha. Tudo começou com vários amigos de Joinville se reunindo e lotando a VAN do Vitório com vários guerreiros que enfrentariam um dos *brevets* mais **gelados** da série 2014 até então.
@@ -20,7 +20,7 @@ Na ansiedade de sair de casa, acabei esquecendo meu **colete**, fato que lembrei
 
 ![Marcelo Rodrigo e Ivan Rolim no Audax Floripa 300km 2014](/images/2014/07/marcelo-rodrigo-ivan-rolim-audax-300-floripa-2014.webp)Eu e o Ivan Rolim. Foto por Ivan Rolim
 
-No **congresso técnico**, reparamos que haviam algumas diferenças na carta de navegação e no mapa, mas ainda era algo gerenciável e consegui tirar as dúvidas ali. O fato do **trajeto** ser identico ao [Audax 300 do ano passado](/audax-300-floripa-julho-2013.html "Audax 300 Floripa – Julho 2013") me deixou mais tranquilo, mas a navegação também é um dos pontos críticos, então nunca é demais se atentar a isto.
+No **congresso técnico**, reparamos que haviam algumas diferenças na carta de navegação e no mapa, mas ainda era algo gerenciável e consegui tirar as dúvidas ali. O fato do **trajeto** ser identico ao [Audax 300 do ano passado](/audax-300-floripa-julho-2013 "Audax 300 Floripa – Julho 2013") me deixou mais tranquilo, mas a navegação também é um dos pontos críticos, então nunca é demais se atentar a isto.
 
 A **largada** ocorreu na ciclovia da beira mar norte, tive a oportunidade de rever vários amigos e rostos conhecidos de outros **Audax**, tentei manter a **cadência alta** para manter o corpo aquecido e segui com vários grupos até a ponte de **Tijucas**, onde o pessoal que eu estava resolveu socar a bota. Naquele momento sabia que se eu continuasse, meu corpo sofreria algumas horas depois, então **resolvi tocar sozinho** até o PC1 em Itajaí.
 

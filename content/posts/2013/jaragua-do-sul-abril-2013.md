@@ -6,7 +6,7 @@ date: "2013-04-28T17:37:06Z"
 tags:
 - Jaraguá do Sul
 title: Jaraguá do Sul Abril/2013
-url: /jaragua-do-sul-abril-2013.html
+url: /jaragua-do-sul-abril-2013
 ---
 # Jaraguá do Sul Abril/2013
 Na sexta recebi convite do meu cunhado Rodrigo Philipps para um pedal de Joinville a BR280, pela Rodovia do Arroz – SC413. Como eu queria esticar um pouco, resolvi sair mais cedo e ir até a **Jaraguá do Sul** pela Rodovia Mario Covas – BR101 e também pela BR280, encontrando ele na volta de Jaraguá do Sul, justo no cruzamento das duas rodovias.

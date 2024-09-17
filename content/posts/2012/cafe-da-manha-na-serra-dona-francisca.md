@@ -6,7 +6,7 @@ date: "2012-09-08T16:58:00Z"
 tags:
 - Serra Dona Francisca
 title: Café da Manhã na Serra Dona Francisca
-url: /cafe-da-manha-na-serra-dona-francisca.html
+url: /cafe-da-manha-na-serra-dona-francisca
 ---
 # Café da Manhã na Serra Dona Francisca
 
@@ -16,7 +16,7 @@ As 6h estava saindo de casa e alguns minutos após encontrei o grupo no Mercado 
 
 ![Início da subida da Serra Dona Francisca](/images/2012/SAM_2180.webp "Início da subida da Serra Dona Francisca")Início da subida da Serra Dona Francisca
 
-Como no [Pedal da Enseada](/pedal-joinville-praia-de-enseada.html "Pedal da Enseada"), havia muita **neblina** na Serra Dona Francisca, mesmo nos estágios iniciais. Encontramos o grupo novamente no mirante e depois seguimos até o Hotel Dona Francisca para o **café da manhã**, onde chegamos aproximadamente 9hs da manhã.
+Como no [Pedal da Enseada](/pedal-joinville-praia-de-enseada "Pedal da Enseada"), havia muita **neblina** na Serra Dona Francisca, mesmo nos estágios iniciais. Encontramos o grupo novamente no mirante e depois seguimos até o Hotel Dona Francisca para o **café da manhã**, onde chegamos aproximadamente 9hs da manhã.
 
 ![Mirante da Serra Dona Francisca](/images/2012/SAM_2181.webp "Mirante da Serra Dona Francisca")Mirante da Serra Dona Francisca: Paulo Henrique Klein, Francisco Moraes, Jony Roberto Kellner, Tomio Tomita, Marcio Franciski, Tammy Reis, Toniolo Gianvittorio, Marcelo Rodrigo e Dalton Volles (que fotografou)
 

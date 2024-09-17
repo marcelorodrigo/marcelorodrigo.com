@@ -5,7 +5,7 @@ categories:
 - Corrida
 date: "2015-01-14T07:40:32Z"
 title: 'Tapiriik: Sincronizar atividades Strava, Garmin, Endomondo e Runkeeper'
-url: /tapiriik-sincronizar-atividades-strava-garmin-endomondo-runkeeper.html
+url: /tapiriik-sincronizar-atividades-strava-garmin-endomondo-runkeeper
 ---
 # Tapiriik: Sincronizar atividades Strava, Garmin, Endomondo e Runkeeper
 O [Tapiriik ](https://tapiriik.com "Site do Tapiriik")vem para resolver um grande problema que é a diversidade de plataformas e aplicativos para registro de atividades de corrida e ciclismo, de forma online e gratuita.

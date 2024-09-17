@@ -6,7 +6,7 @@ date: "2013-06-20T23:05:49Z"
 tags:
 - zero hora
 title: 'Zero Hora Logística: como rastrear pedidos'
-url: /zero-hora-logistica-como-rastrear-pedidos.html
+url: /zero-hora-logistica-como-rastrear-pedidos
 ---
 # Zero Hora Logística: como rastrear pedidos
 

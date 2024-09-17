@@ -6,7 +6,7 @@ date: "2013-05-08T22:56:58Z"
 tags:
 - ontime
 title: Rastreamento de entrega pedidos Ontime Log
-url: /rastreamento-entrega-pedidos-ontime-log.html
+url: /rastreamento-entrega-pedidos-ontime-log
 ---
 # Rastreamento de entrega pedidos Ontime Log
 

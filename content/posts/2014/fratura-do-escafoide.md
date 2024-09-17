@@ -5,7 +5,7 @@ categories:
 - Coisas da Vida
 date: "2014-08-27T19:55:35Z"
 title: Fratura do Escafoide
-url: /fratura-do-escafoide.html
+url: /fratura-do-escafoide
 ---
 
 Por mera coincidência resolvi escrever sobre a escafoide e suas fraturas bem recorrentes na prática do ciclismo. Estive treinando apesar do período chuvoso nas últimas semanas e retornando para casa sofri uma queda, fraturando o escafoide do braço direito. O esquerdo eu fraturei há pouco mais de 2 anos.

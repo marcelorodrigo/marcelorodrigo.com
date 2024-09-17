@@ -7,7 +7,7 @@ tags:
 - Garuva
 - Pedágio
 title: Pedágio de Garuva Março/2013
-url: /pedagio-de-garuva-marco-2013.html
+url: /pedagio-de-garuva-marco-2013
 ---
 # Pedágio de Garuva Março/2013
 Levanto as 6h da manhã para um pedal, que marquei com o Luiz Fernandes, para irmos até Garuva. A idéia inicial era ir até o trevo de entrada a cidade de Garuva, tomar uma água gelada e retornar pra casa em tempo de almoçar com a família, porém posteriormente mudamos os planos e resolvemos tocar até o pedágio mesmo.

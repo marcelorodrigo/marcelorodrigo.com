@@ -7,7 +7,7 @@ date: "2014-01-26T22:18:03Z"
 tags:
 - Barra Velha
 title: Barra Velha Janeiro/2014
-url: /pedal-barra-velha-janeiro-2014.html
+url: /pedal-barra-velha-janeiro-2014
 ---
 # Barra Velha Janeiro/2014
 Estava há tempos sem fazer um pedal para Barra Velha, e com o objetivo de cumprir o desafio [Gran Fondo 01](http://www.strava.com/challenges/gran-fondo-01 "Gran Fondo 01") que o Strava promoveu – 130km num único pedal – eu resolvi cair na BR 101 e dar uma volta em Barra Velha.

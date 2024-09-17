@@ -4,7 +4,7 @@ categories:
 - Corrida
 date: "2015-12-05T21:40:50Z"
 title: Corrida Semana da Marinha 2015
-url: /corrida-semana-da-marinha-2015.html
+url: /corrida-semana-da-marinha-2015
 ---
 # Corrida Semana da Marinha 2015
 
@@ -24,7 +24,7 @@ Nesta hora me surpreendeu como em cidade pequena as coisas são mais práticas �
 
 Durante a corrida eu segui a **estratégia do treinador** e confesso que o resultado foi muito satisfatório, já no 2º km eu estava passando alguns adversários que haviam me ultrapassado nos primeiros metros da prova. E assim mantive a estratégia, quando ultrapassei um “conhecido” de outra prova e segui com ele me perseguindo até próximo ao final da prova.
 
-Quando chegou o **último quilômetro**, comecei a **aumentar o ritmo** e evitar que meu conhecido me superasse na chegada, nos 100 metros finais arranquei forças que não sei de onde vieram, mas que me renderam finalizar a prova em 25’30” – **baixando em mais de um minuto** o resultado no [Circuito de Corrida da Unimed do ano passado](/circuito-corrida-unimed-joinville-2014.html), sem contar que abri exatos 20 segundos pro meu “conhecido”.
+Quando chegou o **último quilômetro**, comecei a **aumentar o ritmo** e evitar que meu conhecido me superasse na chegada, nos 100 metros finais arranquei forças que não sei de onde vieram, mas que me renderam finalizar a prova em 25’30” – **baixando em mais de um minuto** o resultado no [Circuito de Corrida da Unimed do ano passado](/circuito-corrida-unimed-joinville-2014), sem contar que abri exatos 20 segundos pro meu “conhecido”.
 
 Apesar de saber que ainda preciso evoluir muito este tempo, confesso que fiquei muito feliz com o resultado e quero continuar treinando pra melhorar esta marca.
 

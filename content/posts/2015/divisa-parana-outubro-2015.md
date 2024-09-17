@@ -6,7 +6,7 @@ categories:
 - Treinos
 date: "2015-10-24T16:43:02Z"
 title: Divisa Paraná x Santa Catarina Outubro/2015
-url: /divisa-parana-outubro-2015.html
+url: /divisa-parana-outubro-2015
 ---
 # Divisa Paraná x Santa Catarina Outubro/2015
 Vou até o Paraná e já volto, foi assim que disse pra minha filha e assim cumpri este treino após 12 meses afastado das bicicletas, fazer um pedal de 90km foi como andar de bicicleta a primeira vez: uma experiência incrível.
@@ -29,7 +29,7 @@ A divisa do Paraná com Santa Catarina fica alguns quilômetros depois do pedág
 
 ![Hora de voltar, KM 0](/images/2015/10/divisa-paraná-km-zero-800x532.webp)Hora de voltar, KM 0
 
-Na volta do Paraná, resolvi esticar um pouco o trajeto e decidi desviar pela Estrada Bonita até o final do asfalto, pra lembrar um pouco do percurso do [Audax 200 de Joinville](/audax-joinville-200km-marco-2014.html).
+Na volta do Paraná, resolvi esticar um pouco o trajeto e decidi desviar pela Estrada Bonita até o final do asfalto, pra lembrar um pouco do percurso do [Audax 200 de Joinville](/audax-joinville-200km-marco-2014).
 
 ![Pedalando na Estrada Bonita](/images/2015/10/SAM_6227.webp "Pedalando na Estrada Bonita")Pedalando na Estrada Bonita
 

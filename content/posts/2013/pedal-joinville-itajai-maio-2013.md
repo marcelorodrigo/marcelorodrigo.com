@@ -7,7 +7,7 @@ tags:
 - Itajaí
 - Pedágio
 title: Joinville a Itajaí Maio/2013
-url: /pedal-joinville-itajai-maio-2013.html
+url: /pedal-joinville-itajai-maio-2013
 ---
 # Joinville a Itajaí Maio/2013
 Um treino mais longo, que mais se aproximasse de um Audax. Pontualmente as 07:10h eu segui em direção de **Itajaí**. Por mais que o percurso não tivesse uma altimetria notável – a BR 101 é praticamente plana – a cidade de **Itajaí** fica aproximadamente 90km de Joinville.

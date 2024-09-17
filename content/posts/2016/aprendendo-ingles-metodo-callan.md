@@ -4,7 +4,7 @@ categories:
 - Coisas da Vida
 date: "2016-03-31T21:14:27Z"
 title: Aprendendo inglês com método Callan
-url: /aprendendo-ingles-metodo-callan.html
+url: /aprendendo-ingles-metodo-callan
 ---
 # Aprendendo inglês com método Callan
 O método Callan realmente **funciona**? É eficiente estudar Callan?

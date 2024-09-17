@@ -7,7 +7,7 @@ date: "2012-06-17T22:52:49Z"
 tags:
 - Brusque
 title: Preparação para o Audax 200
-url: /preparacao-para-o-audax-200.html
+url: /preparacao-para-o-audax-200
 ---
 # Preparação para o Audax 200
 

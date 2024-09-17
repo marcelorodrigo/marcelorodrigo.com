@@ -7,7 +7,7 @@ tags:
 - ds-160
 - visto americando
 title: CASV marcou sinal de diferente ≠ no meu formulário DS-160
-url: /casv-marcou-sinal-diferente-formulario-ds-160.html
+url: /casv-marcou-sinal-diferente-formulario-ds-160
 ---
 # CASV marcou sinal de diferente ≠ no meu formulário DS-160
 Estive no CASV e marcaram um símbolo de diferente ≠ no meu formulário DS-160, e agora? Meu visto vai ser negado? Tenho de solicitar o visto novamente?
