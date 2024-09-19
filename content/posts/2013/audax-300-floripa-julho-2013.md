@@ -7,11 +7,11 @@ tags:
 - Florianópolis
 - Itajaí
 title: Audax 300 Floripa Julho 2013
-url: /audax-300-floripa-julho-2013.html
+url: /audax-300-floripa-julho-2013
 ---
 # Audax 300 Floripa Julho 2013
 
-Um dos meus objetivos para 2013 foi brevetar o **Audax 300km** em Florianópolis. Seguindo do brevet do [Audax 200 Floripa](/audax-floripa-200km-2012.html) no último dezembro e de uma série de treinos – incluindo participar do [Audax 200 Balneário Camboriu](/audax-balneario-camboriu-200km-2013.html) neste ano – **chegou a hora dos 300 kilômetros**.
+Um dos meus objetivos para 2013 foi brevetar o **Audax 300km** em Florianópolis. Seguindo do brevet do [Audax 200 Floripa](/audax-floripa-200km-2012) no último dezembro e de uma série de treinos – incluindo participar do [Audax 200 Balneário Camboriu](/audax-balneario-camboriu-200km-2013) neste ano – **chegou a hora dos 300 kilômetros**.
 
 No sábado segui com o Dalton para **Floripa**. Já na retirada dos kits encontrei o Marcio Serpa lá de Itapema no **Della Bikes**. Retiramos nossos kits, fomos jantar na mesma pizzaria do último Audax – o rodízio de massas e pizzas é muito bom – e seguimos para o Congresso. Enquanto o **congresso** não começava, ficamos num posto bem movimentado curtindo as beldades que ali passavam e pensando nas pitangas que iríamos chorar nos mais de 300 kilômetros que iríamos pedalar nas próximas horas.
 
@@ -29,7 +29,7 @@ Seguimos de Itajaí sentido sul para São José onde estava o PC2 com 200km, enf
 
 Passando o pedágio de **Porto Belo**, já eram 6:30h e decidimos uma breve parada para tomar um café com pão de queijo quentinho. Não sentimos sono algum, mas ao continuarmos o pedal o clima havia mudado completamente, **ventava** muito – vento contra, claro – e manter 18km/h era complicado. Aos poucos fui sentindo o corpo perder forças e senti que não estava legal. Assim fui me arrastando até **São José**, onde percebi que estava há mais de uma hora sem comer nada, depois que comi alguma coisa meu rendimento **começou a melhorar**, apesar do vento castigar bastante.
 
-[![Audax 300 Floripa - Pedalando em Biguaçu](/images/2013/07/audax-300-floripa-biguacu.webp)](/audax-300-floripa-julho-2013.html/audax-300-floripa-biguacu)Sol nascendo em Biguaçu
+[![Audax 300 Floripa - Pedalando em Biguaçu](/images/2013/07/audax-300-floripa-biguacu.webp)](/audax-300-floripa-julho-2013/audax-300-floripa-biguacu)Sol nascendo em Biguaçu
 
 Chegamos ao PC2, outra parada para comer e hidratar e seguimos pelo bairro **Campinas** até a ponte que nos levava novamente a **Ilha**. Neste trecho comecei a me sentir melhor, mas como ventava muito, não conseguíamos manter uma **velocidade** boa.
 

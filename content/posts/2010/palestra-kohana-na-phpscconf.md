@@ -8,7 +8,7 @@ keywords:
 tags:
 - PHP
 title: Palestra do Kohana na PHP SC Conference 2010
-url: /palestra-kohana-na-phpscconf.html
+url: /palestra-kohana-na-phpscconf
 ---
 # Palestra do Kohana na PHP SC Conference 2010
 Na última semana ocorreu a [phpSCConf ](http://www.phpsc.com.br)e estou compartilhando meu material usado na palestra sobre **Desenvolvimento Ágil com Kohana Framework**.

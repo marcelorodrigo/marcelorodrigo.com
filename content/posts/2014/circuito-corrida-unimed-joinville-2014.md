@@ -7,7 +7,7 @@ date: "2014-10-19T14:46:22Z"
 tags:
 - unimed
 title: Circuito Corrida Unimed Joinville 2014
-url: /circuito-corrida-unimed-joinville-2014.html
+url: /circuito-corrida-unimed-joinville-2014
 ---
 
 A **Unimed Joinville** promoveu a etapa na cidade do **Circuito Estadual de Corridas da Unimed SC** num trajeto bem conhecido da cidade – com largada no **Centreventos Cau Hansen** – nas modalidades de 5km e 10km

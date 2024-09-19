@@ -4,7 +4,7 @@ categories:
 - Coisas da Vida
 date: "2015-02-14T14:28:52Z"
 title: Síndrome de Dumping
-url: /sindrome-de-dumping.html
+url: /sindrome-de-dumping
 ---
 # Síndrome de Dumping
 Pra quem é gastroplastizado, a **síndrome de dumping** volta e meia resolve aparecer quando você ingere algum alimento. Não demora muito após a alimentação completa ser liberada após a cirurgia e não muito tarde você vai ter certeza do que é um dumping: taquicardia, sudorese, pressão baixa e aquela sensação que você precisa deitar logo antes que seu corpo amoleça no chão.

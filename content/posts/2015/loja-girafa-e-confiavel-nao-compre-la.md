@@ -5,7 +5,7 @@ categories:
 - Reviews
 date: "2015-03-05T07:54:05Z"
 title: Loja Girafa é confiável? Não compre lá!
-url: /loja-girafa-e-confiavel-nao-compre-la.html
+url: /loja-girafa-e-confiavel-nao-compre-la
 ---
 # Loja Girafa é confiável? Não compre lá!
 ## Vai comprar no Girafa?

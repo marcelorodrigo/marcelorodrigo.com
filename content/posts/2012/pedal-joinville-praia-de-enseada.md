@@ -7,7 +7,7 @@ tags:
 - Joinville
 - Praia da Enseada
 title: Pedal Joinville a Praia de Enseada
-url: /pedal-joinville-praia-de-enseada.html
+url: /pedal-joinville-praia-de-enseada
 ---
 # Pedal Joinville a Praia de Enseada
 

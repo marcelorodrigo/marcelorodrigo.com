@@ -4,7 +4,7 @@ categories:
 - Bike
 date: "2015-02-17T06:01:53Z"
 title: Mentiras que todo ciclista conta
-url: /mentiras-que-todo-ciclista-conta.html
+url: /mentiras-que-todo-ciclista-conta
 ---
 # Mentiras que todo ciclista conta
 Todo ciclista gosta de aumentar um pouco ou inventar umas belas mentiras. Isso não é só exclusividade para bebuns ou pescadores não. Contar uma mentira pra convencer alguém pedalar contigo é sempre válido.

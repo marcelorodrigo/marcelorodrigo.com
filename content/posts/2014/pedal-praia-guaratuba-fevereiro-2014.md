@@ -8,7 +8,7 @@ tags:
 - Garuva
 - Guaratuba
 title: Praia de Guaratuba Fevereiro/2014
-url: /pedal-praia-guaratuba-fevereiro-2014.html
+url: /pedal-praia-guaratuba-fevereiro-2014
 ---
 # Praia de Guaratuba Fevereiro/2014
 *“Quando vimos, já estávamos na **Praia de Guaratuba**“* é a frase que pode melhor descrever este pedal.

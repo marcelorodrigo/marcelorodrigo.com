@@ -7,7 +7,7 @@ date: "2014-05-03T21:17:30Z"
 tags:
 - Estrada Bonita
 title: Estrada Bonita Maio/2014
-url: /estrada-bonita-maio2014.html
+url: /estrada-bonita-maio2014
 ---
 
 Com lindas paisagens e uma vasta gastronomia germânica de doces, geleias, biscoitos e queijos a **Estada Bonita** é um excelente destino para conhecer e apreciar o turismo rural de Joinville.

@@ -5,7 +5,7 @@ categories:
 - Reviews
 date: "2012-09-22T14:27:32Z"
 title: wPos e PosEad Pós Graduação a Distância
-url: /wpos-posead-pos-graduacao-distancia.html
+url: /wpos-posead-pos-graduacao-distancia
 ---
 # wPos e PosEad Pós Graduação a Distância
 Navegando na internet, me deparei com os sites da **wPos** e da **POSEAD**, que são dois portais que oferecem **cursos de pós graduação** a distância em todo o território nacional.

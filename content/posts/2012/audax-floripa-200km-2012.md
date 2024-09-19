@@ -8,7 +8,7 @@ tags:
 - São José
 - Audax
 title: Audax Floripa 200km 2012
-url: /audax-floripa-200km-2012.html
+url: /audax-floripa-200km-2012
 ---
 # Audax Floripa 200km 2012
 

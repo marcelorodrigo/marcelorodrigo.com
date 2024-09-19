@@ -11,7 +11,7 @@ keywords:
 tags:
   - Facebook
 title: Como acompanhar um post no Facebook sem comentar AC
-url: /como-acompanhar-um-post-no-facebook-sem-comentar-ac.html
+url: /como-acompanhar-um-post-no-facebook-sem-comentar-ac
 ---
 # Como acompanhar um post no Facebook sem comentar "AC"
 > “AC”, o famoso *Acompanhando comentários*.

@@ -11,10 +11,10 @@ image: /images/2013/05/SAM_3233.webp
 tags:
 - Vila da Glória
 title: Pedal Festa do Camarão &#8211; Vila da Glória
-url: /pedal-festa-camarao-vila-gloria.html
+url: /pedal-festa-camarao-vila-gloria
 ---
 
-Cumprindo a promessa no último pedal a [Praia da Vigorelli](/ferry-boat-praia-vigorelli.html "Pedal Praia Vigorelli"), eu e minha esposa partimos para o pedal até a **Festa do Camarão** lá na Vila da Glória. O mais interessante de tudo é que até poucas horas antes deste pedal, nem sabíamos que neste final de semana ocorria a Festa do Camarão.
+Cumprindo a promessa no último pedal a [Praia da Vigorelli](/ferry-boat-praia-vigorelli "Pedal Praia Vigorelli"), eu e minha esposa partimos para o pedal até a **Festa do Camarão** lá na Vila da Glória. O mais interessante de tudo é que até poucas horas antes deste pedal, nem sabíamos que neste final de semana ocorria a Festa do Camarão.
 
 Chegamos na Praia da Vigorelli em poucos minutos e aguardamos a balsa que ainda estava retornando do Gilbratar, enquanto isto descansamos um pouco e tiramos algumas fotos.
 

@@ -6,10 +6,10 @@ date: "2014-06-18T22:16:42Z"
 tags:
 - Vila da Glória
 title: Pedal Festa do Camarão 2014
-url: /pedal-festa-camarao-2014.html
+url: /pedal-festa-camarao-2014
 ---
 # Pedal Festa do Camarão 2014
-No ano anterior fomos [pedalando a Festa do Camarão](/pedal-festa-camarao-vila-gloria.html "Pedal Festa do Camarão – Vila da Glória") na **Vila da Glória** e curtimos muito o passeio, fizemos promessas de repetir este pedal, e este ano o Guilherme resolveu ir junto na cadeirinha :)
+No ano anterior fomos [pedalando a Festa do Camarão](/pedal-festa-camarao-vila-gloria "Pedal Festa do Camarão – Vila da Glória") na **Vila da Glória** e curtimos muito o passeio, fizemos promessas de repetir este pedal, e este ano o Guilherme resolveu ir junto na cadeirinha :)
 
 Saímos de casa passando o aeroporto de Joinville sentido para a **Praia do Vigorelli**, onde pegamos a balsa até o Gilbratar. O Guilherme foi todo feliz na cadeirinha com a promessa de uma parada no **parquinho** antes da balsa, porém ao chegarmos a balsa já estava de partida e aproveitamos a viagem, a fila de carros para ir a Vila da Glória era grande.
 

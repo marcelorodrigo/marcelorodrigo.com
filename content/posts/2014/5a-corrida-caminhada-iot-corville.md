@@ -8,7 +8,7 @@ tags:
 - iot
 - corrida
 title: 5ª corrida e caminhada IOT Corville
-url: /5a-corrida-caminhada-iot-corville.html
+url: /5a-corrida-caminhada-iot-corville
 ---
 
 Há exatas três semanas, resolvi aderir a pratica da corrida. Procurei material e dicas para poder iniciar na modalidade e logo estava com a planilha de treinos, visando a primeira prova de corrida de 5k. A intenção nunca foi largar a bike, mas sim ter um esporte alternativo e melhorar um pouco o condicionamento físico, neste objetivo fiz a inscrição pra 5ª corrida e caminhada IOT Corville.

@@ -7,7 +7,7 @@ date: "2014-05-18T20:42:53Z"
 tags:
 - Garuva
 title: Balança de Garuva Maio/2014
-url: /balanca-de-garuva-maio-2014.html
+url: /balanca-de-garuva-maio-2014
 ---
 
 Domingo de sol pediu um pedal até a **Balança de Garuva**, precisava sair um pouco da rotina nos treinos no rolo. A semana toda fui trabalhar de bicicleta e fiz alguns treinos no rolo a noite, finalizando com o sábado de estudos.

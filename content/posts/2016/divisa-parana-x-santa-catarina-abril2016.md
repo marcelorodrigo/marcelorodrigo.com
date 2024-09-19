@@ -5,7 +5,7 @@ categories:
 - Treinos
 date: "2016-04-23T15:18:20Z"
 title: Divisa Paraná x Santa Catarina – Abril/2016
-url: /divisa-parana-x-santa-catarina-abril2016.html
+url: /divisa-parana-x-santa-catarina-abril2016
 ---
 # Divisa Paraná x Santa Catarina – Abril/2016
 Fazer o pedal do “Vou ao Paraná e volto já” já é tradição, assim como outros roteiros muito conhecidos em Joinville. Particularmente eu gosto deste pedal porque ele tem trechos onde a pedalada flui bastante, tem pontos gratuitos de hidratação, altimetria bacana, algumas subidas e antes do almoço você já está em casa.

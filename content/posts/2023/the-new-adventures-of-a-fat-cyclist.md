@@ -17,7 +17,7 @@ tags:
   - Bike
   - Ams
 title: The New Adventures of a Fat Cyclist
-url: /the-new-adventures-of-a-fat-cyclist.html
+url: /the-new-adventures-of-a-fat-cyclist
 ---
 # The New Adventures of a Fat Cyclist
 

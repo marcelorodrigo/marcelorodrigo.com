@@ -6,13 +6,13 @@ date: "2013-06-27T23:23:11Z"
 tags:
 - Balneário Camboriú
 title: Audax Balneário Camboriú 200km 2013
-url: /audax-balneario-camboriu-200km-2013.html
+url: /audax-balneario-camboriu-200km-2013
 ---
 # Audax Balneário Camboriú 200km 2013
 
 Balneário Camboriú, 23 de junho de 2013 – **Audax** 200 Km.
 
-Um ano depois do [Audax BC 200km de 2012](/relato-audax-200-balneario-camboriu.html "Audax 200 Balneario Camboriu 2012"), eram as mesmas 4hs da manhã, e eu estava com a bike no transbike entrando na BR 101 em direção a Balneário Camboriú. As 5:30h cheguei em Camboriú no campus da Univali, e o frio estava propício pra pedalar, faziam apenas 7.4c.
+Um ano depois do [Audax BC 200km de 2012](/relato-audax-200-balneario-camboriu "Audax 200 Balneario Camboriu 2012"), eram as mesmas 4hs da manhã, e eu estava com a bike no transbike entrando na BR 101 em direção a Balneário Camboriú. As 5:30h cheguei em Camboriú no campus da Univali, e o frio estava propício pra pedalar, faziam apenas 7.4c.
 
 ![audax-bc-2013](/images/2013/06/audax-bc-20131.webp)
 
@@ -24,7 +24,7 @@ Passamos também por Itajaí na linda Praia Brava, Cabeçudas, Atalaia, Morcego 
 
 ![Amigos no Audax Balneario Camboriu 200km 2013](/images/2013/06/audax-balneariocamboriu-200km-2013-amigos-pc1.webp)Amigos no Audax Balneario Camboriu 200km 2013 – PC1
 
-Do centro de Itajaí seguimos até o centro de Ilhota no PC1, onde eu e o Dalton pudemos encontrar um casal de Curitiba que nos ajudou lá no [Audax Floripa 200](/audax-floripa-200km-2012.html), foi muito bom reencontrar eles, desejamos boa prova e seguimos adiante por Gaspar até a cidade de Blumenau.
+Do centro de Itajaí seguimos até o centro de Ilhota no PC1, onde eu e o Dalton pudemos encontrar um casal de Curitiba que nos ajudou lá no [Audax Floripa 200](/audax-floripa-200km-2012), foi muito bom reencontrar eles, desejamos boa prova e seguimos adiante por Gaspar até a cidade de Blumenau.
 
 Mas, o que seria de um relato de Audax sem reclamar do vento né? Pois foram quase 50km de vento contra, onde estava complicado manter 20km/h. Mas não desanimamos e seguimos em frente. Ao chegar em Blumenau, fizemos a volta no trevo conforme programado e seguimos novamente em direção a Brusque, passando novamente pelo centro de Gaspar.
 

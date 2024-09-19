@@ -11,7 +11,7 @@ tags:
 - Itapoá
 - Joinville
 title: Audax Joinville 200km &#8211; Março 2014
-url: /audax-joinville-200km-marco-2014.html
+url: /audax-joinville-200km-marco-2014
 ---
 
 O **Audax Joinville 200km** foi a primeira oportunidade que me inscrevi para realizar a etapa inicial de **toda a série** Audax 2014 que planejei em concluir este ano. Foi uma ótima notícia receber um Audax na minha cidade organizado pelo pessoal da *Della Bikes* que já tem boa **experiência** no estado nesta atividade.

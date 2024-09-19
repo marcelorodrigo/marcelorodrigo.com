@@ -5,7 +5,7 @@ categories:
 - Destaque
 date: "2015-02-14T15:19:42Z"
 title: Qual bicicleta comprar?
-url: /qual-bicicleta-comprar.html
+url: /qual-bicicleta-comprar
 ---
 # Qual bicicleta comprar?
 Quando começo a falar para as pessoas que estou pedalando é comum e frequente ouvir a pergunta: **Qual bicicleta comprar?**

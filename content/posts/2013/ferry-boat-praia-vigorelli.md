@@ -6,7 +6,7 @@ date: "2013-04-27T14:51:23Z"
 tags:
 - Joinville
 title: Ferry Boat e Praia da Vigorelli
-url: /ferry-boat-praia-vigorelli.html
+url: /ferry-boat-praia-vigorelli
 ---
 # Ferry Boat e Praia da Vigorelli
 Praia da Vigorelli, destino clássico nos anos 90 para muitos dos Joinvilenses, hoje não mais. Nas últimas semanas tenho me ausentado um pouco dos pedais, para me dedicar aos estudos na Pós e passar um pouco mais de tempo com a família. Quem gosta de ciclismo de longa distancia acaba passando várias horas fora de casa, e querendo ou não, a família acaba sentindo falta.

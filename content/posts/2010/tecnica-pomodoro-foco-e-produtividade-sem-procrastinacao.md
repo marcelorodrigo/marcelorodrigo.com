@@ -4,7 +4,7 @@ categories:
 - Desenvolvimento
 date: "2010-04-30T15:42:43Z"
 title: 'Técnica Pomodoro: foco e produtividade sem procrastinação'
-url: /tecnica-pomodoro-foco-e-produtividade-sem-procrastinacao.html
+url: /tecnica-pomodoro-foco-e-produtividade-sem-procrastinacao
 ---
 # Técnica Pomodoro: foco e produtividade sem procrastinação
 

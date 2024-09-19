@@ -4,7 +4,7 @@ categories:
 - Coisas da Vida
 date: "2015-01-10T07:24:49Z"
 title: Rastreamento de entrega pedidos Plimor Transportadora
-url: /rastreamento-de-entrega-pedidos-plimor-transportadora.html
+url: /rastreamento-de-entrega-pedidos-plimor-transportadora
 ---
 # Rastreamento de entrega pedidos Plimor Transportadora
 A Transportadora Plimor atende nas compras de comércio eletrônico das lojas Americanas, Submarino, Shoptime ou Saraiva a entrega é sempre feita por transportadoras. No sistema seu pedido será entregue pela transportadora mas você não tem acesso a qual transportadora.

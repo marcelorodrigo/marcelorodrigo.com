@@ -10,10 +10,10 @@ tags:
 - Massaranduba
 - São João do Itaperiú
 title: Treino Audax 200 Balneário Camboriú
-url: /treino-audax-200.html
+url: /treino-audax-200
 ---
 # Treino Audax 200 Balneário Camboriú
-Desde que comecei os [preparativos](/preparacao-para-o-audax-200.html "Preparação para o Audax 200") para o **Audax 200** de Balneário Camboríu, foram vários treinos variando de 35 a 70km, mas faltava fazer um **treino mais longo** no último final de semana antes do evento do Audax acontecer.
+Desde que comecei os [preparativos](/preparacao-para-o-audax-200 "Preparação para o Audax 200") para o **Audax 200** de Balneário Camboríu, foram vários treinos variando de 35 a 70km, mas faltava fazer um **treino mais longo** no último final de semana antes do evento do Audax acontecer.
 
 Algumas mensagens pelo *Facebook* e combinei com o Marcio Franciski de fazermos um **treino leve de longa distância** totalizando algo próximo de 140km, simulando um **Audax** no sábado antes do evento oficial. Saímos 8hs da manhã de Joinville com um **frio de 6c**, pois se saíssemos mais cedo estaria mais frio ainda.
 

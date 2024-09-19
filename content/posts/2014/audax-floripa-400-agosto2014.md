@@ -14,7 +14,7 @@ tags:
 - Itapema
 - São José
 title: Audax Floripa 400 Agosto/2014
-url: /audax-floripa-400-agosto2014.html
+url: /audax-floripa-400-agosto2014
 ---
 
 Continuando a série Audax 2014 chegou a vez do Audax Floripa 400km, a penúltima etapa do desafio Super Randonneur. No sábado cedo partimos eu, Gilberto e Limas sentido Florianópolis para retirar nossos kits. A chuva veio acompanhando todo o trajeto já anunciando que teríamos tempo molhado mais tarde.

@@ -8,7 +8,7 @@ tags:
 - Itajaí
 - Pedágio
 title: Audax Moo Itajaí Junho/2013
-url: /audax-moo-itajai-junho2013.html
+url: /audax-moo-itajai-junho2013
 ---
 # Audax Moo Itajaí Junho/2013
 

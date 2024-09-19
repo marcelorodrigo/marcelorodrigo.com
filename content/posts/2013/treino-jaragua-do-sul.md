@@ -6,7 +6,7 @@ date: "2013-03-23T20:47:06Z"
 tags:
 - Jaraguá do Sul
 title: Treino Jaraguá do Sul
-url: /treino-jaragua-do-sul.html
+url: /treino-jaragua-do-sul
 ---
 # Treino Jaraguá do Sul
 

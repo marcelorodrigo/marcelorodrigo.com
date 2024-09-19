@@ -7,7 +7,7 @@ date: "2016-08-31T15:47:46Z"
 tags:
 - geocaching
 title: Guia do Geocaching para iniciantes
-url: /guia-geocaching.html
+url: /guia-geocaching
 ---
 # Guia do Geocaching para iniciantes
 O **Geocaching** é um jogo de caça ao tesouro. Você utiliza a rede de satélites GPS para encontrar um cache num endereço por coordenadas. Estas coordenadas podem te levar numa aventura a qualquer lugar do mundo.

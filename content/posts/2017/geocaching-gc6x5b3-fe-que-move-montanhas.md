@@ -6,7 +6,7 @@ date: "2017-03-31T22:24:06Z"
 tags:
 - geocaching
 title: Geocaching GC6X5B3 Fé que move montanhas
-url: /geocaching-gc6x5b3-fe-que-move-montanhas.html
+url: /geocaching-gc6x5b3-fe-que-move-montanhas
 ---
 # Geocaching GC6X5B3 Fé que move montanhas
 *Vamos agora, ande ordenadamente!*
@@ -30,4 +30,4 @@ Ok, falar é fácil, mas desvendar o mistério é mais difícil ainda, mas pense
 Se você ainda está lendo, parabéns, está gastando seu tempo pois as dicas acabaram. Se já está lendo pela terceira vez – nos parágrafos anteriores eu pedi pra voltar a ler desde o começo, lembra? – pode ser que resolver mistérios serja complicado mesmo, mas as vezes espairecer e não ter pressa é a melhor saída.
 
 Vida longa ao geocaching!  
-Não sabe o que é [geocaching](/guia-geocaching.html)? Uma [brincadeira de caça ao tesouro digital](/guia-geocaching.html) espera por você!
+Não sabe o que é [geocaching](/guia-geocaching)? Uma [brincadeira de caça ao tesouro digital](/guia-geocaching) espera por você!

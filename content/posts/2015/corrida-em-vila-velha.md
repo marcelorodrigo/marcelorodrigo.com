@@ -5,7 +5,7 @@ categories:
 - Treinos
 date: "2015-03-10T15:48:11Z"
 title: Corrida em Vila Velha
-url: /corrida-em-vila-velha.html
+url: /corrida-em-vila-velha
 ---
 # Corrida em Vila Velha
 Na última semana estive passeando com a família na cidade de Vila Velha no Espírito Santo. Compramos um voo num valor bem atrativo para a capital Vitória, porém como gostamos de praia e de tranquilidade, resolvemos ficar hospedados em Vila Velha, onde as praias tem águas que são mais limpas.
