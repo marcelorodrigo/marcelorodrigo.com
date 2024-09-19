@@ -24,7 +24,7 @@ Assim, essa pessoa começa a receber notificações desse post a cada novo comen
 
 Se todos que querem acompanhar um post comentam `"AC| `, como resultado, imagine como ficariam os posts nos grupos do Facebook?
 
-![Como acompanhar posts no Facebook sem escrever AC](images/2018/facebook-acompanhar-post-sem-escrever-ac.webp)
+![Como acompanhar posts no Facebook sem escrever AC](/images/2018/facebook-acompanhar-post-sem-escrever-ac.webp)
 
 ## Como receber notificações no Facebook
 Porém, existe um recurso nativo na plataforma que permite você ser notificado a cada novo comentário, sem precisar escrever “AC”.
