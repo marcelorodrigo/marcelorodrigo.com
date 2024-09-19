@@ -5,7 +5,7 @@ categories:
   - Coisas da Vida
   - Destaque
 date: "2023-02-02T16:39:18Z"
-description: It was a rainy day in Joinville, Brazil, and our fat cyclist, Marcelo, was getting ready for his biggest adventure moving to The Netherlands.
+description: It was a rainy day in Joinville, Brazil, and our fat cyclist, Marcelo, was getting ready for his biggest adventure moving to Amsterdam in The Netherlands.
 draft: false
 keywords:
   - Amsterdam
@@ -15,7 +15,7 @@ keywords:
   - Brazil
 tags:
   - Bike
-  - Ams
+  - Amsterdam
 title: The New Adventures of a Fat Cyclist
 url: /the-new-adventures-of-a-fat-cyclist
 ---
