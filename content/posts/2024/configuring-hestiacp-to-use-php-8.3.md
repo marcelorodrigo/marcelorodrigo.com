@@ -2,7 +2,7 @@
 author: "Marcelo Rodrigo"
 categories:
   - Desenvolvimento
-date: 2024-10-06T19:22:31+02:00
+date: 2024-10-06T21:22:31+02:00
 description: 'Configuring HestiaCP to use PHP 8.3'
 draft: false
 keywords:
@@ -39,3 +39,13 @@ sudo sed -i '/^\t"php-8.2",/a \\t"php-8.3",' /usr/local/hestia/web/edit/server/i
 ```
 
 Thanks to `sahsanu` at the HestiaCP forum.
+
+## Bonus: Remove unsupported PHP versions
+
+PHP is a dynamic language that typically releases a new version every two years. As a result, older versions become unsupported, which can expose your server to security risks if they are still in use.
+
+It's important to remove these legacy PHP versions. You can easily remove outdated PHP versions with the following command:
+
+```bash
+sudo /usr/local/hestia/bin/v-delete-web-php <version>
+```
