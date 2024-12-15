@@ -8,6 +8,7 @@ title: Qual bicicleta comprar?
 url: /qual-bicicleta-comprar
 ---
 # Qual bicicleta comprar?
+
 Quando começo a falar para as pessoas que estou pedalando é comum e frequente ouvir a pergunta: **Qual bicicleta comprar?**
 
 Num primeiro momento eu diria que a escolha de uma **bicicleta** vai de uma série de fatores, incluindo quanto você pode gastar. Pensando nisso resolvi escrever este post para ajudar quem vai adquirir sua primeira bicicleta com algumas dicas simples:
@@ -52,7 +53,7 @@ Uma dica interessante é negociar estes itens como **desconto** ou **brinde** na
 
 ### Conforto
 
-A maioria das pessoas compra a bicicleta por impulso ou ainda pela cor/grafismo do quadro <del>eu mesmo já cometi este crime</del>. Se você está lendo este artigo antes de comprar sua primeira bicicleta, a dica é experimentar a **bike** antes de fechar o negócio.
+A maioria das pessoas compra a bicicleta por impulso ou ainda pela cor/grafismo do quadro - eu mesmo já cometi este crime. Se você está lendo este artigo antes de comprar sua primeira bicicleta, a dica é experimentar a **bike** antes de fechar o negócio.
 
 Solicite que ajustem o **selim** para a sua altura e ande pelo menos duas voltas na quadra para sentir como fica o conforto pedalando na bicicleta. Preste atenção se a postura em cima do quadro da bicicleta é **confortável** e se seus braços não ficam esticados demasiadamente a ponto de gerar desconforto futuro nas articulações do braço e ombros.
 

@@ -33,7 +33,6 @@ Na saída de Gaspar encontramos dois jovens de bermuda e regata pedalando de Spe
 Passando por Brusque, veio a famosa subida da Rua Poço Fundo. Ali encontrei um ciclista muito doido de speed de Florianópolis. Rimos muito das dores e dificuldades de subir aquele morro íngrime depois de quase 130km pedalados. Reclamamos muito de Brusque não ter uma mísera panificadora aberta pra comer algo – eram 13h – e na descida do mesmo morro, ele nos ultrapassou e flagramos a bike dele encostada num boteco. Ali comi um bolinho de carne – delicioso, era divino – com dois chocoleites. Mais umas risadas e juntou uma outra ciclista no lanche também.
 
 {{< youtube Cze-04g5KAI >}}
-<iframe allowfullscreen="" frameborder="0" height="394" loading="lazy" src="//www.youtube.com/embed/Cze-04g5KAI" width="700"></iframe>
 
 Seguimos pelo centro de Brusque até o PC3, no caminho tive de parar pra adubar a terra e o Dalton ficou me esperando. Lá pelo PC3 encontramos novamente o Carletto, e seguimos em frente. Ali o desafio era só seguir pelo plano até o Morro Cortado em Itajaí e partir pro abraço, o corpo entrou no modo sobrevivência e tudo seguiu como programado.
 

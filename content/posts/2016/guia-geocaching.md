@@ -10,6 +10,7 @@ title: Guia do Geocaching para iniciantes
 url: /guia-geocaching
 ---
 # Guia do Geocaching para iniciantes
+
 O **Geocaching** é um jogo de caça ao tesouro. Você utiliza a rede de satélites GPS para encontrar um cache num endereço por coordenadas. Estas coordenadas podem te levar numa aventura a qualquer lugar do mundo.
 
 Veja os 10 passos e como é fácil começar:
@@ -18,7 +19,7 @@ Veja os 10 passos e como é fácil começar:
 2. Procure caches mais próximos de você ou do seu destino de viagem
 3. Prefira começar com um cache com dificuldade 1.5 e terreno 1.5 (aconselho começar por 1.5 ou menos, a frente tente encontrar os mais difíceis) e tamanho regular
 4. Dê uma olhada nos logs e veja se outros jogadores encontraram este cache recentemente
-5. Informe as coordenadas pro seu aparelho GPS ou use um App ([Oficial](https://www.geocaching.com/), [c:geo](https://play.google.com/store/apps/details?id=cgeo.geocaching) pra Android, Garmin) no seu celular
+5. Informe as coordenadas pro seu aparelho GPS ou use um App oficial, c:geo pra Android, Garmin) no seu celular
 6. Com as coordenadas gravadas, utilize-as para lhe guiar até o geocache escondido.
 7. Mantenha-se discreto, [como um ninja!](#como-procurar "Aprenda a ser um geocacher ninja")
 8. Assine o logbook com seu usuário e data
@@ -36,7 +37,7 @@ O site te dá as coordenadas e o GPS te leva ao lugar certeiro do cache, qual a 
 Lembra que é uma caça ao tesouro? Então, precisamos ser discretos como um ninja.  
 Você já viu alguém procurando um cache? Se não viu é porque os jogadores são discretos!
 
-As coordenadas geralmente te levam o mais próximo possível do cache. A precisão do GPS chega há poucos metros. Chegando no <abbr title="Ground Zero. As coordenadas do cache">GZ</abbr> guarde o GPS ou celular no bolso e olhe a sua volta.
+As coordenadas geralmente te levam o mais próximo possível do cache. A precisão do GPS chega há poucos metros. Chegando no GZ guarde o GPS ou celular no bolso e olhe a sua volta.
 
 Se tiverem algumas pessoas próximas, ative o modo ninja:
 
