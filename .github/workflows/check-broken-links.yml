@@ -2,6 +2,7 @@ name: Check broken links
 on: pull_request
 jobs:
   htmltest:
+    name: Check HTML
     runs-on: ubuntu-latest
     steps:
         - name: Check out
