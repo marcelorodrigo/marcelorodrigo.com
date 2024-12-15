@@ -8,14 +8,15 @@ jobs:
           uses: actions/checkout@v4
           with:
             submodules: recursive
-        - name: Load .env
-          uses: direnv/direnv-action@v2
-          with:
-            env_file: .env
+        - name: Read .env
+          id: hugo-version
+          run: |
+            . ./.env
+            echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
         - name: Set up Hugo
           uses: peaceiris/actions-hugo@v3
           with:
-            hugo-version: ${{ env.HUGO_VERSION }}
+            hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
             extended: true
         - name: Run Hugo
           run: hugo
