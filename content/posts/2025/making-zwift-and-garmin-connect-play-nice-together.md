@@ -21,9 +21,9 @@ As an indoor cyclist using Zwift, I have discovered that the direct integration 
 To help on the issue, Garmin deliberately decided to not update metrics if you are not using a Garmin device to record your traning. While it makes sense from a vendor perspective, it does not help when you use Zwift, which is agnostic to which brand of trainer or smart bike you are using.
 
 ## The Experiement
-Some users reported that it can the missing metrics can easily grabbed if you have Garmin watch. The idea is to run the Garmin watch in paralel with Zwift, but discard the activity you started on your watch. This way you would trigger Garmin to closely watch your heartbeat and other metrics in the background.
+Some users have reported that the missing metrics can be easily captured if you have a Garmin watch. The approach is to run the Garmin watch in parallel with Zwift, but discard the activity you started on your watch. This way, you trigger Garmin to closely monitor your heartbeat and other metrics in the background.
 
-While it does not completely solves the problem, it can help you to track you heart rate, SpO2 and other metrics more accurately and help you to achieve a better monitoring on your traning and health condition.
+While this doesn't completely solve the problem, it can help you track your heart rate, SpO2, and other metrics more accurately and achieve better monitoring of your training and health condition.
 
 ## The Solution
 After some experimentation, I found a solution that, while manual, ensures all my training metrics are properly captured in Garmin Connect.
