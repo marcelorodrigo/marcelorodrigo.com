@@ -4,9 +4,11 @@ categories:
   - Coisas da Vida
 date: 2025-01-01T13:30:23+01:00
 description: 'Making Zwift and Garmin Connect play nice together: A Manual but Rewarding Approach for metrics like Training Status, Vo2Max and Intensity Minutes synchronized.'
-draft: true
+draft: false
 keywords:
   - Bike
+  - Zwift
+  - Garmin
 tags:
   - Bike
 title: 'Making Zwift and Garmin Connect play nice together'
