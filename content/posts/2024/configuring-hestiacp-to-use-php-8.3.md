@@ -14,6 +14,7 @@ tags:
   - PHP
 title: 'Configuring HestiaCP to use PHP 8.3'
 type: post
+url: '/configuring-hestiacp-to-use-php-8.3'
 ---
 
 # Configuring HestiaCP to use PHP 8.3
