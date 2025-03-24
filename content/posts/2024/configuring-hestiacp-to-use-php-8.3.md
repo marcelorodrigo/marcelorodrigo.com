@@ -3,6 +3,7 @@ author: "Marcelo Rodrigo"
 categories:
   - Desenvolvimento
 date: 2024-10-06T21:22:31+02:00
+lastmod: 2025-03-24T14:58:04+02:00
 description: 'Configuring HestiaCP to use PHP 8.3'
 draft: false
 keywords:
@@ -14,7 +15,7 @@ tags:
   - PHP
 title: 'Configuring HestiaCP to use PHP 8.3'
 type: post
-url: '/configuring-hestiacp-to-use-php-8.3'
+url: '/configuring-hestiacp-to-use-php-8-3'
 ---
 
 # Configuring HestiaCP to use PHP 8.3
