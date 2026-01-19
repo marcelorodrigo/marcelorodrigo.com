@@ -1,5 +1,4 @@
 ---
-author: Marcelo Rodrigo
 categories:
 - Desenvolvimento
 date: "2010-09-07T14:25:43Z"

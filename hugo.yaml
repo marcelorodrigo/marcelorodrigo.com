@@ -1,11 +1,14 @@
 canonifyURLs: true
 defaultContentLanguage: "en"
-description: "Apaixonado por viagens e bicicletas, brasileiro morando na Holanda"
+description: "Apaixonado por viagens, software e bicicletas"
 enableEmoji: true
 enableRobotsTXT: true
 languageCode: "en-us"
 params:
-  author: "Marcelo Rodrigo"
+  author:
+    name: "Marcelo Rodrigo"
+    email: "mrodrigow@gmail.com"
+    bio: "Apaixonado por viagens, software e bicicletas"
   enable404: true
-theme: "hugo-theme-monochrome"
+theme: "fortyten"
 title: "Marcelo Rodrigo"
