@@ -1,7 +1,6 @@
 ---
-author: "Marcelo Rodrigo"
 categories:
-  - Coisas da Vida
+  - Bike
 date: 2025-01-01T13:30:23+01:00
 lastmod: 2025-01-02T13:34:31+01:00
 description: 'Making Zwift and Garmin Connect play nice together: A Manual but Rewarding Approach for metrics like Training Status, Vo2Max and Intensity Minutes synchronized.'
@@ -15,6 +14,7 @@ tags:
 title: 'Making Zwift and Garmin Connect play nice together'
 url: '/making-swift-and-garmin-connect-play-nice-together'
 type: post
+image: "https://images.unsplash.com/photo-1602840103803-c8b1cc0a7a1a?w=900&auto=format&fit=crop&q=60"
 ---
 
 # Making Zwift and Garmin Connect play nice together
