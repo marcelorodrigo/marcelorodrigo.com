@@ -9,6 +9,11 @@ params:
     name: "Marcelo Rodrigo"
     email: "mrodrigow@gmail.com"
     bio: "Apaixonado por viagens, software e bicicletas"
-  enable404: true
+    enableSiteSearch: true
 theme: "fortyten"
 title: "Marcelo Rodrigo"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # Required for search to work
