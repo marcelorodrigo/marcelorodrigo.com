@@ -35,7 +35,7 @@ I added a search feature that runs entirely in the browser. No external services
 
 ## Making It Available
 
-I decided to release [FortyTen](https://fortyten.marcelorodrigo.com/) as an open source theme because I believe in giving back. Other developers might find it useful, or they might learn something from looking at how I structured it. Either way, putting it on GitHub means I have a backup of my work and a way to track improvements over time.
+I decided to release [FortyTen](https://fortyten.marcelorodrigo.com/) as an open-source theme because I believe in giving back. Other developers might find it useful, or they might learn something from looking at how I structured it. Either way, putting it on GitHub means I have a backup of my work and a way to track improvements over time.
 
 If you are thinking about building your own Hugo theme, I encourage you to go for it. Start small, focus on what you need, and expand from there. The process will teach you more about web development than any tutorial ever could. And when you are done, you will have something that is truly yours.
 
