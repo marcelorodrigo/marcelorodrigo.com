@@ -16,7 +16,7 @@ jobs:
             node-version: '24'
             cache: 'npm'
         - name: Install npm dependencies (frozen)
-          run: npm ci
+          run: npm install tailwindcss @tailwindcss/cli
         - name: Read .env
           uses: aarcangeli/load-dotenv@v1
           with:
