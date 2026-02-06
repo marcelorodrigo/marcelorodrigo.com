@@ -70,4 +70,4 @@ Quero deixar registrado aqui meu agradecimento a parceria e amizade que fiz com 
 - Alimentação: 2 pães de queijo, 4 bananas, 2 tangerinas, melancia, risoto, 4 maltodextrina em gel, 6 barrinhas de cereal, pães e uma infinididade de comida, sério! Eu comi tanta coisa que nem lembro exatamente mais \*rs
 - Gasto Calórico: 12.390 kcal
 
-{{< iframe "https://app.strava.com/activities/65485732/embed/9bc6f368f721949367a6134a01d9881d98f5a4f1" "600" "410" >}}
+{{< iframe "https://app.strava.com/activities/65485732/embed/9bc6f368f721949367a6134a01d9881d98f5a4f1" "600" "410" "Strava Activity" >}}

@@ -26,4 +26,4 @@ Chegamos na Vila da Glória, uma volta no trapiche e partimos novamente em dire�
 
 Na volta, os morrinhos e a parada fizeram nossas pernas darem uma boa esticada, que nos garantiu no último minuto uma vaga na vazia balsa. Conseguimos retornar a praia do Vigorelli ainda as 10:30h, nos livrando de esperar por mais 1h até a próxima viagem.
 
-{{< iframe "https://www.strava.com/activities/627688801/embed/3ed8303b11bef3b452fc886a5266a686ec70f583" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/627688801/embed/3ed8303b11bef3b452fc886a5266a686ec70f583" "590" "410" "Strava Activity" >}}

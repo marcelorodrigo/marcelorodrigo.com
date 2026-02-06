@@ -56,4 +56,4 @@ Na volta, o calor estava castigando. Como estávamos com tempo de sobra – pra 
 - Alimentação: 3 barras de cereal
 - Gasto Calórico: 1390 kcal
 
-{{<iframe "https://app.strava.com/activities/42961843/embed/ac95b80ec2770e99b94f22110715f2af75ada33c" "590" "410" >}}
+{{< iframe "https://app.strava.com/activities/42961843/embed/ac95b80ec2770e99b94f22110715f2af75ada33c" "590" "410" "Strava Activity" >}}

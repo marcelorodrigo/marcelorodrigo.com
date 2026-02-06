@@ -28,4 +28,4 @@ Correr a beira mar é sempre bom, e o visual da Praia da Costa ajuda bastante. S
 
 ### Veja minha corrida no Strava
 
-{{< iframe "https://www.strava.com/activities/265397973/embed/fd5cab73f67ec56f71f343a9d738373d9e15bfd1" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/265397973/embed/fd5cab73f67ec56f71f343a9d738373d9e15bfd1" "590" "410" "Strava Activity" >}}

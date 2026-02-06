@@ -48,4 +48,4 @@ O pedal para **Jaraguá do Su**l ainda está no cronograma, apesar de não ter s
 - Alimentação: 4 barras de cereal + 1 maçã
 - Gasto Calórico: 3730 kcal
 
-{{< iframe "http://app.strava.com/activities/45571861/embed/1322e034b12e0042b1647b6441691b5b79802d8a" "590" "410" >}}
+{{< iframe "http://app.strava.com/activities/45571861/embed/1322e034b12e0042b1647b6441691b5b79802d8a" "590" "410" "Strava Activity" >}}

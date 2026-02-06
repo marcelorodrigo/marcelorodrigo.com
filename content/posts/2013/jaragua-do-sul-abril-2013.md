@@ -59,4 +59,4 @@ Excelente pedal, dia e temperatura perfeita pra pedalar. Gosto muito de fazer es
 - Alimentação: 3 barras de fruta + 2 barras de cereal + picolé
 - Gasto Calórico: 5440 kcal
 
-{{< iframe "https://app.strava.com/activities/51197968/embed/1c35f340d56455db033788719d037bf442f3cab8" "590" "510" >}}
+{{< iframe "https://app.strava.com/activities/51197968/embed/1c35f340d56455db033788719d037bf442f3cab8" "590" "510" "Strava Activity" >}}

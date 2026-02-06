@@ -40,4 +40,4 @@ Mas como nem tudo são flores, e quem não anda não fura, mais um furo pro curr
 Os furos foram só a cereja do bolo. O prazer de voltar a pedalar com este pedal para a divisa do Paraná foi imenso, aproveitei pra testar algumas mudanças na bike, alguns ajustes no bikefit e também o sistema de remendo autocolante que atendeu muito bem, devo comprar mais alguns para a próxima temporada Audax.
 
 Veja esta pedalada no Strava  
-{{< iframe "https://www.strava.com/activities/419444351/embed/fc56cf429934813f2a305c00854978b90d28244d" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/419444351/embed/fc56cf429934813f2a305c00854978b90d28244d" "590" "410" "Strava Activity" >}}

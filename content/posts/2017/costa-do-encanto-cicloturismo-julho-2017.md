@@ -61,4 +61,4 @@ A Vila da Glória continua a mesma, muito bonita. Falando em bonita, vi placas i
 
 Aqui o pedal já entrou no automático. Foi curtir os morrinhos deliciosos do bairro de Frias até chegar o Gilbratar. Cheguei 15 minutos antes da balsa partir. Somando a travessia deu meia hora de descanso, pra seguir bem tranquilo até em casa.
 
-{{< iframe "https://www.strava.com/activities/1071091094/embed/5d25770b37fe6a7ca67e2e92510da00da4a93a61" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/1071091094/embed/5d25770b37fe6a7ca67e2e92510da00da4a93a61" "590" "410" "Strava Activity" >}}

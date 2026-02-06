@@ -45,4 +45,4 @@ Fechei a prova com 43′ cravados, não era exatamente o tempo que eu queria, ma
 ![Circuito Brasil Corrida de Rua Joinville - Medalha 3](/images/2016/02/circuito-brasil-corrida-rua-joinville-medalha3-marcelo-rodrigo.webp)
 
 ## Strava
-{{< iframe "https://www.strava.com/activities/504445843/embed/1d297fc5d67b5bdd5633b92f3523603f9bea6963" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/504445843/embed/1d297fc5d67b5bdd5633b92f3523603f9bea6963" "590" "410" "Strava Activity" >}}

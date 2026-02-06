@@ -58,4 +58,4 @@ Foi um ótimo treino, não fui a Blumenau como gostaria, mas se transformou num 
 - Alimentação: 5 barras de cereal + 1 sanduíche + 2 pães de queijo
 - Gasto Calórico: 8678 kcal
 
-{{< iframe "https://app.strava.com/activities/59222837/embed/01edea4c7b0c265763ef9d43701e0db251bc3737" "600" "510">}}
+{{< iframe "https://app.strava.com/activities/59222837/embed/01edea4c7b0c265763ef9d43701e0db251bc3737" "600" "510" "Strava Activity" >}}
