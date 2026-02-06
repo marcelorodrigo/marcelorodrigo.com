@@ -15,7 +15,7 @@ jobs:
           with:
             node-version: '25'
         - name: Install npm dependencies (frozen)
-          run: npm install tailwindcss @tailwindcss/cli
+          run: npm install -D tailwindcss @tailwindcss/cli @tailwindcss/typography
         - name: Read .env
           uses: aarcangeli/load-dotenv@v1
           with:
