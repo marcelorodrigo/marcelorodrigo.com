@@ -10,10 +10,10 @@ jobs:
           with:
             submodules: recursive
             show-progress: false
-        - name: Setup Node.js 24 LTS
+        - name: Setup Node.js
           uses: actions/setup-node@v6
           with:
-            node-version: '25'
+            node-version: '24'
         - name: Install npm dependencies (frozen)
           run: npm install -D tailwindcss @tailwindcss/cli @tailwindcss/typography
         - name: Read .env
