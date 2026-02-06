@@ -3,7 +3,7 @@ author: "Marcelo Rodrigo"
 categories:
   - Tecnologia
 date: 2026-01-19T20:06:40+02:00
-description: 'Creating the FortyTen Hugo Theme'
+description: 'Meet FortyTen: my open-source hugo theme. Understand why it is different, and how you can use it for your own site.'
 draft: false
 image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop'
 keywords:
