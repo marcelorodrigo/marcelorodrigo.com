@@ -39,4 +39,4 @@ Na volta eu entendi o efeito da Coca Cola – EPO – que o Luiz tomou, pois ele
 
 Com os reservatórios cheios, entramos em modo de sobrevivência e a bike foi sozinha pra casa, sem muito esforço logo estávamos em casa. Apesar de toda a sujeira de areia no corpo e na bike, foi um pedal excelente.
 
-{{< iframe "http://www.strava.com/activities/115308546/embed/ab38b5cb43440a3dc5a0015c4396898565c67b00" "590" "410" >}}
+{{< iframe "http://www.strava.com/activities/115308546/embed/ab38b5cb43440a3dc5a0015c4396898565c67b00" "590" "410" "Strava Activity" >}}

@@ -34,4 +34,4 @@ No retorno a Joinville foi minha vez de furar o pneu traseiro, logo após passar
 
 Ao chegar em Pirabeiraba, fizemos a hidratação antes de chegar em casa pro almoço, porque o sol estava de rachar. Mais um dia perfeito pra pedalar e dar uma visita ao estado vizinho.
 
-{{< iframe "https://www.strava.com/activities/554502685/embed/a1e326a060f1f436150db9a10debb418c9417fc3" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/554502685/embed/a1e326a060f1f436150db9a10debb418c9417fc3" "590" "410" "Strava Activity" >}}

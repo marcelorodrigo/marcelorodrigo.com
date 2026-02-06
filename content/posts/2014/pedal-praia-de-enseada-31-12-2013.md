@@ -37,7 +37,7 @@ Eu queria iniciar meu retorno da Enseada as 15h, mas saí somente as 17h devido 
 Foi uma boa despedida do ótimo ano que foi 2013. Não pude pedalar tudo que eu queria, mas estou realizado com tudo que conquistei e espero em 2014 pedalar o dobro. Eram 20h e eu estava em casa, feliz da vida pra passar a virada no sossego com minha família.
 
 ## Ida
-{{< iframe "https://www.strava.com/activities/102985633/embed/649b0896acbf21db4dc66ee75fa25c65fd725497" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/102985633/embed/649b0896acbf21db4dc66ee75fa25c65fd725497" "590" "410" "Strava Activity" >}}
 
 ## Volta
-{{< iframe "https://www.strava.com/activities/103083883/embed/723d7b4363971ef3de0975ace364057a50f28c5d" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/103083883/embed/723d7b4363971ef3de0975ace364057a50f28c5d" "590" "410" "Strava Activity" >}}

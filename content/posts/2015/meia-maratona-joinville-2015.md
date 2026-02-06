@@ -31,4 +31,4 @@ Na chegada a subida da rua que dá acesso a Associação esperava todos novament
 Como havia falado, a Meia Maratona foi uma prova de corrida que não me preocupei com tempo, fui pela diversão faltando poucos dias para uma cirurgia que irei fazer, então o objetivo era somente se divertir e praticar um exercício.
 
 ### Veja minha corrida no Strava 
-{{< iframe "https://www.strava.com/activities/268535433/embed/5d34f65dc2566512675be39dcacc73217162dc51" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/268535433/embed/5d34f65dc2566512675be39dcacc73217162dc51" "590" "410" "Strava Activity" >}}

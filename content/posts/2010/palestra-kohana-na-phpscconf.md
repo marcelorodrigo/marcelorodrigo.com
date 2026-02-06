@@ -18,4 +18,4 @@ Foi muito interessante ver o número de pessoas presentes que já tiveram contat
 
 ## Slides da palestra
 
-{{< iframe "https://www.slideshare.net/slideshow/embed_code/key/9PDywPkYLBKyHT?startSlide=1" "600" "500" >}}
+{{< iframe "https://www.slideshare.net/slideshow/embed_code/key/9PDywPkYLBKyHT?startSlide=1" "600" "500" "SlideShare Presentation" >}}

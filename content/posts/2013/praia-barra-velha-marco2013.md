@@ -58,4 +58,4 @@ O **retorno** foi marcado por sentir um pouco mais a perna, devido ao exagero na
 - Alimentação: 2 barras de cereal + 1 Gel Carboidrato
 - Gasto Calórico: 5780 kcal
 
-{{< iframe "http://app.strava.com/activities/43726469/embed/eecdc9516a5723cf9e97bdcd22356951edda233a" "590" "410" >}}
+{{< iframe "http://app.strava.com/activities/43726469/embed/eecdc9516a5723cf9e97bdcd22356951edda233a" "590" "410" "Strava Activity" >}}

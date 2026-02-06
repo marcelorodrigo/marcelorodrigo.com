@@ -50,4 +50,4 @@ Passando pela Avenida do Estado encontrei minha família me aguardando no caminh
 - Alimentação: 8 bisnaguinhas com queijo magro + 2 bananas + 3 maçãs + bolinho de carne + 2 tangerinas
 - Gasto Calórico: 8710 kcal
  
-{{< iframe "http://app.strava.com/activities/62419704/embed/821eadb9b2055b054f443c671c45db2692b0d02c" "600" "600">}}
+{{< iframe "http://app.strava.com/activities/62419704/embed/821eadb9b2055b054f443c671c45db2692b0d02c" "600" "600" "Strava Activity" >}}

@@ -29,4 +29,4 @@ Quando chegou o **último quilômetro**, comecei a **aumentar o ritmo** e evitar
 Apesar de saber que ainda preciso evoluir muito este tempo, confesso que fiquei muito feliz com o resultado e quero continuar treinando pra melhorar esta marca.
 
 Veja minha corrida no Strava (O GPS marcou o tempo bruto)  
-{{< iframe "https://www.strava.com/activities/443938735/embed/245159c723e35402554d5cfa21a923bc9795ed16" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/443938735/embed/245159c723e35402554d5cfa21a923bc9795ed16" "590" "410" "Strava Activity" >}}

@@ -54,4 +54,4 @@ O retorno pela BR 101 foi já com as energias diminuindo bastante. As pernas est
 
 Era uma questão de minutos até a performance cair, e assim aconteceu. Entramos na cidade, passamos na Decathlon – paguei a dívida da camara com o Dix – e seguimos a Santos Dumont. O objetivo? Fechar os tão desejados 100km do Gran Fondo, cada um fez um trajeto a sua casa envolvendo uma distancia maior.
 
-{{< iframe "https://www.strava.com/activities/952120852/embed/66372c21169f6b2350d5a508295b5ce02e5c83f1" "590" "410" >}}
+{{< iframe "https://www.strava.com/activities/952120852/embed/66372c21169f6b2350d5a508295b5ce02e5c83f1" "590" "410" "Strava Activity" >}}
