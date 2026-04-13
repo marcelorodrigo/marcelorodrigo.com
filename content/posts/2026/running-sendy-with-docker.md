@@ -3,7 +3,7 @@ categories:
   - Tecnologia
 date: 2026-04-13T00:00:00+02:00
 lastmod: 2026-04-13T00:00:00+02:00
-description: 'How I built a production ready Docker image for Sendy, the self-hosted newsletter app, to replace a repetitive manual installation process: now listed as a community contribution on the official Sendy integrations page.'
+description: 'How I built a production-ready Docker image for Sendy, the self-hosted newsletter app, to replace a repetitive manual installation process: now listed as a community contribution on the official Sendy integrations page.'
 draft: false
 keywords:
   - Docker
@@ -37,7 +37,7 @@ So I did.
 
 ## The Docker image
 
-I invested some time building a production ready Docker image for Sendy, available at [marcelorodrigo/sendy](https://github.com/marcelorodrigo/sendy) on Docker Hub.
+I invested some time building a production-ready Docker image for Sendy, available at [marcelorodrigo/sendy](https://github.com/marcelorodrigo/sendy) on Docker Hub.
 
 Some decisions I made along the way that I'm happy with:
 
@@ -47,7 +47,7 @@ Some decisions I made along the way that I'm happy with:
 - **Multi-architecture**: native `amd64` and `arm64` images, so it runs on Apple Silicon and standard x86 servers alike
 - **CloudFlare support**: real client IP addresses are passed through correctly from trusted proxies
 - **All logs to STDOUT/STDERR**: plays well with any centralized logging setup
-- **Health check**: built in container orchestrators can detect when the app is ready
+- **Health check**: built-in container orchestrators can detect when the app is ready
 
 Required PHP extensions are pre-installed and `mod_rewrite` is enabled, so Sendy works out of the box without any manual tuning.
 
@@ -110,6 +110,6 @@ Run `docker compose up -d`, open your browser, and Sendy's installer will greet 
 
 ## Community recognition
 
-The best part came after publishing the image: it is now listed on the [official Sendy integrations page](https://sendy.co/api) as a **Community maintained Docker image**. A small but satisfying milestone for a project that started purely as a way to stop repeating myself.
+The best part came after publishing the image: it is now listed on the [official Sendy integrations page](https://sendy.co/api) as a **Community-maintained Docker image**. A small but satisfying milestone for a project that started purely as a way to stop repeating myself.
 
 If you use Sendy and want to run it in Docker, give it a try. Feedback and contributions are welcome on [GitHub](https://github.com/marcelorodrigo/sendy).
