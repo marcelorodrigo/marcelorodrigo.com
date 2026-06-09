@@ -3,7 +3,7 @@ defaultContentLanguage: "en"
 description: "Apaixonado por viagens, software e bicicletas"
 enableEmoji: true
 enableRobotsTXT: true
-languageCode: "en-us"
+locale: "en-us"
 params:
   author:
     name: "Marcelo Rodrigo"
