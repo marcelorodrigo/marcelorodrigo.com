@@ -2,7 +2,7 @@
 author: "Marcelo Rodrigo"
 categories:
   - Tecnologia
-date: 2026-06-09T20:06:40+02:00
+date: 2026-06-09T10:06:40+02:00
 description: 'The mistake I see most often: seasoned engineers confusing practice with adaptation in an era of rapid AI-driven change'
 draft: false
 image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=2070&auto=format&fit=crop'
