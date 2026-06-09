@@ -11,7 +11,7 @@ keywords:
 tags:
   - AI
   - Technology
-title: 'The Mistake Seasoned Engineers are Making with AI'
+title: 'The mistake seasoned engineers are making with AI'
 type: post
 url: '/the-mistake-seasoned-engineers-are-making-with-ai'
 ---
