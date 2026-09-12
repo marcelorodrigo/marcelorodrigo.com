@@ -17,3 +17,12 @@ outputs:
     - HTML
     - RSS
     - JSON  # Required for search to work
+security:
+  exec:
+    allow:
+      - '^(dart-)?sass$'
+      - '^go$'
+      - '^git$'
+      - '^node$'
+      - '^postcss$'
+      - '^tailwindcss$'
